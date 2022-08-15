@@ -32,3 +32,4 @@ function Get-SPHelp {
   Export-ModuleMember -Function Open-SPAppReg
   Export-ModuleMember -Function Open-SPAppInv
   Export-ModuleMember -Function Get-SPFullSitePermission
+  Export-ModuleMember -Function Get-SPHelp
